@@ -1,2 +1,2 @@
 # datascience1repo
-this my practice repository
+This my practice repository for my Data Science 1 class
